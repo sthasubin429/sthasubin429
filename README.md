@@ -1,4 +1,4 @@
-## <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="30px">Hi, I am Subin Shrestha
+## <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="30px"> Hi, I am Subin Shrestha
 
 I am a Software Developer and Machine-Learning enthusiast. I love to learn new things and challenging myself.
 
@@ -18,7 +18,7 @@ I am a Software Developer and Machine-Learning enthusiast. I love to learn new t
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
 </p>
 
-### 🛠 &nbsp; Tools and Technologies
+### 🛠 Tools and Technologies
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"/ >
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/ >
@@ -33,7 +33,7 @@ I am a Software Developer and Machine-Learning enthusiast. I love to learn new t
   <img src="https://img.icons8.com/color/50/000000/adobe-photoshop.png" />
 </p>
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ GitHub Analytics
 <p align="center">
 <a href="https://github.com/sthasubin429">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sthasubin429&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -49,7 +49,7 @@ I am a Software Developer and Machine-Learning enthusiast. I love to learn new t
 </p>
 
 
-### Let's Connect :coffee:
+###  :coffee: Let's Connect
 <p align="center">
 	<a href="https://github.com/sthasubin429"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/sthasubin/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
