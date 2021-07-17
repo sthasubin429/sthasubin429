@@ -53,15 +53,17 @@ I am a Software Developer and Machine-Learning enthusiast. I love to learn new t
 <p align="center">
 	<a href="https://github.com/sthasubin429"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/sthasubin/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="#"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="#"><img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png" alt="Instagram"/></a>
-	<a href="#"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+
 </p>
 
 
 
 
 <!--
+	<a href="#"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="#"><img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png" alt="Instagram"/></a>
+	<a href="#"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+
 **sthasubin429/sthasubin429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
