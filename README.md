@@ -1,4 +1,4 @@
-## <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="32px"> Hi, I am Subin Shrestha
+## <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="32" height="32"> Hi, I am Subin Shrestha
 
 I am a Software Developer and Machine-Learning enthusiast. I love to learn new things and challenging myself.
 
