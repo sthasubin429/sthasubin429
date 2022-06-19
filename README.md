@@ -1,4 +1,4 @@
-## <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="30px"> Hi, I am Subin Shrestha
+## <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="32px"> Hi, I am Subin Shrestha
 
 I am a Software Developer and Machine-Learning enthusiast. I love to learn new things and challenging myself.
 
@@ -14,6 +14,7 @@ I am a Software Developer and Machine-Learning enthusiast. I love to learn new t
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" alt="Ruby" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
 </p>
@@ -21,8 +22,10 @@ I am a Software Developer and Machine-Learning enthusiast. I love to learn new t
 ### 🛠 Tools and Technologies
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"/ >
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/ >
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="Django" width="40" height="40"/ >
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/ >
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="Angular" width="40" height="40"/ >
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" alt="Ruby on Rails" width="40" height="40"/ >
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node" width="40" height="40"/ >
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/ >
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="Yarn" width="40" height="40"/ >
