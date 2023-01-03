@@ -40,7 +40,7 @@ I am a Software Developer and Machine-Learning enthusiast. I love to learn new t
 <p align="center">
 <a href="https://github.com/sthasubin429">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sthasubin429&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sthasubin429&layout=compact&langs_count=8&theme=radical&hide=jupyter%20notebook"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sthasubin429&layout=compact&langs_count=10&theme=radical&hide=jupyter%20notebook,c%2B%2B"/>
 </a>
 </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sthasubin429&show_icons=true&theme=tokyonight_duo" alt="sthasubin429" /></p>
