@@ -1,10 +1,10 @@
-### make computer go brrrrrr
+<!--  ### make computer go brrrrrr
 
 
 ![alt text](ihavenoideawhatimdoing.jpg)
+-->
 
-
-<!-- ## <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="32" height="32"> Hi, I am Subin Shrestha
+## <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="32" height="32"> Hi, I am Subin Shrestha
 
 I am a Software Developer and Machine-Learning enthusiast. I love to learn new things and challenging myself.
 
@@ -64,4 +64,4 @@ I am a Software Developer and Machine-Learning enthusiast. I love to learn new t
 	<a href="https://www.linkedin.com/in/sthasubin/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.subinstha.com.np/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/geography.png" alt="Website"/></a>
 
-</p> -->
+</p> 
